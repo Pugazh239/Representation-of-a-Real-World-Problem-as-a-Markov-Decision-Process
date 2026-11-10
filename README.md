@@ -1,6 +1,14 @@
 # Representation-of-a-Real-World-Problem-as-a-Markov-Decision-Process
 
 
+
+Name:Pugazh sozhan.A
+
+Reg.No:212224240121
+
+
+
+
 ## Aim
 
 Write your aim here.
