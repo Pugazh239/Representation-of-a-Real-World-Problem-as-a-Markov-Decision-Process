@@ -163,8 +163,8 @@ Each arrow is labelled as **Action, Probability, Reward**.
 
 ~~~
 # MDP Representation using Python
-print("Name: Chiiradeep R")
-print("Register Number: 212224240028")
+print("Name: Pugazh sozhan.A")
+print("Register Number: 212224240121")
 
 states = ["High", "Medium", "Low"]
 actions = ["Study", "Rest"]
